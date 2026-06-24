@@ -2,7 +2,7 @@
 <br/>
 
 <!-- LOGO: suba o arquivo da logo no repo e substitua o src abaixo -->
-<img src="https://mon3.co/opengraph-image.png" alt="MON 3" width="180" />
+<img src="https://mon3.co/images/logo_extensa.svg" alt="MON 3" width="800" />
 
 <br/><br/>
 
