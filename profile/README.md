@@ -8,7 +8,7 @@ Construímos produtos e infraestrutura para mover dinheiro com mais velocidade, 
 
 [![Fintech](https://img.shields.io/badge/focus-cross--border%20payments-0A66C2?style=for-the-badge)](#)
 [![Stack](https://img.shields.io/badge/stack-flutter%20%7C%20next.js%20%7C%20aws-111827?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/status-building-22c55e?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/status-production-22c55e?style=for-the-badge)](#)
 
 </div>
 
