@@ -1,98 +1,127 @@
 <div align="center">
+<br/>
 
-<a href="https://mon3.co">
-  <img src="https://mon3.co/logo.png" alt="MON 3" height="60" />
-</a>
+<!-- LOGO: suba o arquivo da logo no repo e substitua o src abaixo -->
+<img src="https://mon3.co/opengraph-image.png" alt="MON 3" width="180" />
 
-<br />
-<br />
+<br/><br/>
 
-**Seu dinheiro. Agora global.**
+<p>● ATIVO E OPERACIONAL</p>
 
-Transferências internacionais em segundos, com até 1,8% de taxa — enquanto bancos tradicionais cobram até 6% e levam dias.
+### Seu dinheiro. Agora global.
 
-[![Status](https://img.shields.io/badge/ATIVO%20E%20OPERACIONAL-22c55e?style=for-the-badge)](#)
-[![Stack](https://img.shields.io/badge/stack-flutter%20%7C%20next.js%20%7C%20aws-111827?style=for-the-badge)](#)
-[![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/mon-3/id6756797048)
-[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.mon3.app)
+<p>Transferências internacionais em segundos, com até <strong>1,8%</strong> de taxa.<br/>
+Enquanto bancos cobram até 6% e levam dias — nós liquidamos na hora.</p>
+
+<br/>
+
+[![App Store](https://img.shields.io/badge/-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/mon-3/id6756797048)
+[![Google Play](https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.mon3.app)
+[![Site](https://img.shields.io/badge/-mon3.co-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mon3.co)
+
+<br/>
 
 </div>
 
 ---
 
-## Números
+<div align="center">
 
-| Métrica | Valor |
-|---|---|
-| Taxa máxima | Até 1,8% |
-| Liquidação | ~10 segundos |
-| Países atendidos | 100+ |
-| Avaliação no app | ★ 4.8 |
+<table>
+  <tr>
+    <td align="center"><strong>até 1,8%</strong><br/><sub>taxa máxima</sub></td>
+    <td align="center"><strong>~10s</strong><br/><sub>liquidação</sub></td>
+    <td align="center"><strong>100+</strong><br/><sub>países</sub></td>
+    <td align="center"><strong>★ 4.8</strong><br/><sub>avaliação no app</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## O que construímos
+## Produto
 
-### Enviar fundos
-Envie dinheiro para qualquer lugar do mundo com as melhores taxas e velocidade. Taxa máx. 1,8% — liquidação em ~10s — 100+ países.
+> Infraestrutura financeira para quem precisa mover dinheiro com velocidade, previsibilidade e custo justo.
 
-### Receber fundos
-Receba pagamentos internacionais diretamente na sua conta com total transparência. Suporte a USDC, visibilidade em tempo real.
+**Enviar fundos** &nbsp;·&nbsp; Taxa máx. 1,8% &nbsp;·&nbsp; Liquidação ~10s &nbsp;·&nbsp; 100+ países
 
-### Cartão MON 3
-Use seu saldo em dólar digital em todo o mundo com conversão automática. Rede Visa, aceito em 200+ países.
+**Receber fundos** &nbsp;·&nbsp; Suporte a USDC &nbsp;·&nbsp; Visibilidade em tempo real
 
-### Multi-moeda
-Mantenha e gerencie múltiplas moedas em uma única conta. 10+ moedas, cotações ao vivo.
+**Cartão MON 3** &nbsp;·&nbsp; Rede Visa &nbsp;·&nbsp; 200+ países &nbsp;·&nbsp; Conversão automática
 
-### Invoicing
-Emita faturas internacionais. O cliente paga via Pix, SEPA, ACH ou SWIFT — você recebe em BRL, USD ou EUR com câmbio travado por 5 minutos.
+**Multi-moeda** &nbsp;·&nbsp; 10+ moedas &nbsp;·&nbsp; Cotações ao vivo &nbsp;·&nbsp; Tudo em um app
+
+**Invoicing** &nbsp;·&nbsp; Pix, SEPA, ACH ou SWIFT &nbsp;·&nbsp; Câmbio travado por 5 min &nbsp;·&nbsp; Receba em BRL, USD ou EUR
 
 ---
 
 ## Por que MON 3?
 
-| | MON 3 | Concorrentes | SWIFT |
-|---|---|---|---|
-| Velocidade | ~10s | 1–2 dias úteis | até 5 dias úteis |
+<div align="center">
+
+| | **MON 3** | Concorrentes | SWIFT |
+|:--|:--|:--|:--|
+| Velocidade | ~10 segundos | 1–2 dias úteis | até 5 dias úteis |
 | Taxa | até 1,8% | 3–5% | 5–8% |
+| Transparência | Total — você vê antes de confirmar | Taxas escondidas | Taxas escondidas |
 
-Infraestrutura AWS, criptografia de ponta e verificação de identidade. **Regulado · Criptografado · Auditado.**
+</div>
 
----
+<br/>
 
-## Parceiros
-
-[![Circle](https://img.shields.io/badge/Circle%20Alliance%20Program-0f0f0f?style=flat-square&logo=circle&logoColor=white)](https://partners.circle.com/partner/mon-3)
-[![AWS](https://img.shields.io/badge/AWS%20Partner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
-[![Dreamsquad](https://img.shields.io/badge/Dreamsquad-111827?style=flat-square)](https://dreamsquad.com.br/)
+<div align="center">
+<sub>Regulado &nbsp;·&nbsp; Criptografado &nbsp;·&nbsp; Auditado &nbsp;·&nbsp; Infraestrutura AWS</sub>
+</div>
 
 ---
 
 ## Stack
 
+<div align="center">
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## Parceiros
+
+<div align="center">
+
+[![Circle Alliance](https://img.shields.io/badge/Circle_Alliance_Program-000000?style=flat-square)](https://partners.circle.com/partner/mon-3)
+&nbsp;
+[![AWS](https://img.shields.io/badge/AWS_Partner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+&nbsp;
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+&nbsp;
+[![Dreamsquad](https://img.shields.io/badge/Dreamsquad-111827?style=flat-square)](https://dreamsquad.com.br/)
+
+</div>
 
 ---
 
 ## Contato
 
-- Site: [mon3.co](https://mon3.co)
-- E-mail: [contato@mon3.co](mailto:contato@mon3.co)
-- LinkedIn: [MON 3 Global](https://www.linkedin.com/company/montres-global)
-- Instagram: [@mon3global](https://www.instagram.com/mon3global/)
-
----
-
 <div align="center">
 
-Seu dinheiro. Seu mundo. Sem fronteiras.
+[mon3.co](https://mon3.co) &nbsp;·&nbsp;
+[contato@mon3.co](mailto:contato@mon3.co) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/company/montres-global) &nbsp;·&nbsp;
+[Instagram](https://www.instagram.com/mon3global/)
+
+<br/>
+
+<sub>SEU DINHEIRO. SEU MUNDO. SEM FRONTEIRAS.</sub>
+
+<br/>
 
 </div>
